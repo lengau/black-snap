@@ -1,6 +1,6 @@
 name: black
 base: core20
-version: 22.8.0
+version: 24.2.0
 summary: The uncompromising Python code formatter
 description: |
   Black is the uncompromising Python code formatter. By using it, you
